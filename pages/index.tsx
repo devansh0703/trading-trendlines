@@ -32,10 +32,10 @@ const Home: NextPage = () => {
         }}>
           <h3>How to use:</h3>
           <ul>
-            <li>Click "Draw Trendline" to enter drawing mode</li>
+            <li>Click &quot;Draw Trendline&quot; to enter drawing mode</li>
             <li>Click two points on the chart to draw a trendline</li>
             <li>Double-click any trendline info below to log coordinates to console</li>
-            <li>Use "Clear All" to remove all trendlines</li>
+            <li>Use &quot;Clear All&quot; to remove all trendlines</li>
             <li>Trendlines are automatically saved and restored on page reload</li>
           </ul>
         </div>
